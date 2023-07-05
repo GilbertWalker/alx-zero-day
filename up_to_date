@@ -1,0 +1,6 @@
+git fetch origin main > up_to_date
+git add up_to_date
+git commit -m How to be up to date in git
+git push origin master
+git commit -m how to be up to dat in git > up_to_date
+echo git fetch origin main

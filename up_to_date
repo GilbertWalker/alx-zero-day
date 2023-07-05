@@ -1,6 +1,9 @@
-git fetch origin main > up_to_date
-git add up_to_date
-git commit -m How to be up to date in git
-git push origin master
-git commit -m how to be up to dat in git > up_to_date
-echo git fetch origin main
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   up_to_date
+
+no changes added to commit (use "git add" and/or "git commit -a")
